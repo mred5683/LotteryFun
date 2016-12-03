@@ -1,0 +1,9 @@
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\bin\Debug\LotteryFun.exe.config
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\bin\Debug\LotteryFun.exe
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\bin\Debug\LotteryFun.pdb
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\obj\Debug\LotteryFun.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\obj\Debug\LotteryFun.exe
+C:\Programming\C# Programs\Personal\LotteryFun\LotteryFun\obj\Debug\LotteryFun.pdb
+C:\Programming\Git_Stuff\LotteryFun\LotteryFun\bin\Debug\LotteryFun.exe.config
+C:\Programming\Git_Stuff\LotteryFun\LotteryFun\obj\Debug\LotteryFun.exe
+C:\Programming\Git_Stuff\LotteryFun\LotteryFun\obj\Debug\LotteryFun.pdb
